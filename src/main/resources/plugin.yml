@@ -1,0 +1,30 @@
+name: HealAndFeed
+main: fr.FrenchGuys.HealFeed.Main
+author: FrenchGuys
+description: Heal & Feed
+version: 1
+api-version: 1.8
+discord: https://discord.gg/ZjwruYffD4
+
+
+commands:
+  feed:
+    description: Feed a player or yourself
+    permission: feed.cmd
+  heal:
+    description: Heal a player or yourself
+    permission: heal.cmd
+  healfeed:
+    description: Heal and feed a player or yourself
+    permission: healfeed.cmd
+
+permissions:
+  permissions.feed:
+    description: Feed a player or yourself
+    default: op
+  permissions.heal:
+    description: Heal a player or yourself
+    default: op
+  permissions.healfeed:
+    description: Heal and feed a player or yourself
+    default: op

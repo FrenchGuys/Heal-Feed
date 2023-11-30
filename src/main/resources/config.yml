@@ -1,0 +1,24 @@
+#Hi, I'm a new developer.
+#If you have any questions or problems, join the discord : https://discord.gg/ZjwruYffD4
+
+feed: #Permission : feed.cmd
+  notfound: "&7&l[&c&l!!!&7&l] &cThe player is not online."
+  targetgetfeed: "&7&l[&a&l!!!&7&l] &aYou have been feed."
+  youfeedtarget: "&7&l[&a&l!!!&7&l] &aYou just feed &e%target%"
+  playergetfeed: "&7&l[&a&l!!!&7&l] &aYou get feed."
+
+
+heal: #Permission : heal.cmd
+  notfound: "&7&l[&c&l!!!&7&l] &cThe player is not online."
+  targetgetheal: "&7&l[&a&l!!!&7&l] &aYou have been heal."
+  youhealtarget: "&7&l[&a&l!!!&7&l] &aYou just heal &e%target%"
+  playergetheal: "&7&l[&a&l!!!&7&l] &aYou get heal."
+
+
+healandfeed:  #Permission : healfeed.cmd
+  notfound: "&7&l[&c&l!!!&7&l] &cThe player is not online."
+  targetgethealfeed: "&7&l[&a&l!!!&7&l] &aYou have been heal and feed."
+  youhealfeedtarget: "&7&l[&a&l!!!&7&l] &aYou just heal and feed &e%target%"
+  playergethealfeed: "&7&l[&a&l!!!&7&l] &aYou get heal and feed."
+
+
