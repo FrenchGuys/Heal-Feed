@@ -13,7 +13,7 @@ The plugin is totaly free. You can download it on Spigot or Minestia.
 
 [![spigot](https://img.shields.io/badge/spigot-1DA1F2?style=for-the-badge&logo=spigot&logoColor=white)](https://www.spigotmc.org/resources/minicore.113366/)
 
-[![minestia](https://img.shields.io/badge/minestia-1DA1F2?style=for-the-badge&logo=minestia&logoColor=white)]()
+[![minestia](https://img.shields.io/badge/minestia-1DA1F2?style=for-the-badge&logo=minestia&logoColor=white)](https://www.minestia.fr/p/healf)
 
 
 ## Authors
