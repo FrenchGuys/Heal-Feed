@@ -11,7 +11,7 @@ The plugin is totaly free. You can download it on Spigot or Minestia.
 
 [![discord](https://img.shields.io/badge/discord-1DA1F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ZjwruYffD4)
 
-[![spigot](https://img.shields.io/badge/spigot-1DA1F2?style=for-the-badge&logo=spigot&logoColor=white)](https://www.spigotmc.org/resources/minicore.113366/)
+[![spigot](https://img.shields.io/badge/spigot-1DA1F2?style=for-the-badge&logo=spigot&logoColor=white)]([https://www.spigotmc.org/resources/minicore.113366/](https://www.spigotmc.org/resources/healandfeed.113781/))
 
 [![minestia](https://img.shields.io/badge/minestia-1DA1F2?style=for-the-badge&logo=minestia&logoColor=white)](https://www.minestia.fr/p/healf)
 
